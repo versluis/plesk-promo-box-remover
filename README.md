@@ -20,6 +20,7 @@ The extension has been tested with
 * Plesk 12.5
 * Plesk Onyx (17 and 17.5)
 
+
 ### Installation and Usage
 
 * download the ZIP file from this repo (promoboxremover.zip)
@@ -27,6 +28,7 @@ The extension has been tested with
 * under "My Extensions", upload the ZIP file
 * ignore the warning about "untrusted sources"
 * enjoy an ad-free Home Screen in Plesk
+
 
 ### Source
 
