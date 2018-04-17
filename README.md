@@ -2,13 +2,16 @@
 
 Plesk Extension that removes the big blue Promo Box on the home screen in Service Provider view.
 
-Here's what it looks like
+Here's what it looks like:
+
 
 ![Plesk Promo Box Remover](https://github.com/versluis/plesk-promo-box-remover/raw/master/before.png)
 BEFORE (without this extension): the big blue box shows Plesk related stuff at the top
 
+
 ![Plesk Promo Box Remover](https://github.com/versluis/plesk-promo-box-remover/raw/master/after.png)
 AFTER (with this extension enabled): the clutter free "zen-at-large" experience lets you focus on your server 
+
 
 ### Supported Plesk Versions
 
