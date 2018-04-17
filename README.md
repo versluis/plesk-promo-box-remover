@@ -16,6 +16,8 @@ AFTER (with this extension enabled): the clutter free "zen-at-large" experience 
 ## Supported Plesk Versions
 
 The extension has been tested with 
+* Plesk 11
+* Plesk 11.5
 * Plesk 12
 * Plesk 12.5
 * Plesk Onyx (17 and 17.5)
