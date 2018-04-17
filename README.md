@@ -6,14 +6,14 @@ Here's what it looks like:
 
 
 ![Plesk Promo Box Remover](https://github.com/versluis/plesk-promo-box-remover/raw/master/before.png)
-BEFORE (without this extension): the big blue box shows Plesk related stuff at the top
+BEFORE (without this extension): the big blue box shows Plesk related stuff at the top.
 
 
 ![Plesk Promo Box Remover](https://github.com/versluis/plesk-promo-box-remover/raw/master/after.png)
-AFTER (with this extension enabled): the clutter free "zen-at-large" experience lets you focus on your server 
+AFTER (with this extension enabled): the clutter free "zen-at-large" experience lets you focus on your server.
 
 
-## Supported Plesk Versions
+## Supported Plesk Versions
 
 The extension has been tested with 
 * Plesk 12
@@ -30,7 +30,7 @@ The extension has been tested with
 * enjoy an ad-free Home Screen in Plesk
 
 
-## Source
+## Source
 
 The only source file is global.css. It simply targets the promo box class and suppresses the its output.
 To find out more about how to get started writing your own Plesk Extensions, have a look at my article from 2014: https://wpguru.co.uk/2014/02/how-to-create-an-extension-in-plesk/
